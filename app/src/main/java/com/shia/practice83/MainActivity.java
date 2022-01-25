@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //this is a comment
         switchBtn = findViewById(R.id.switchBtn);
         textView = findViewById(R.id.textView);
         button = findViewById(R.id.button);
